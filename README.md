@@ -1,4 +1,4 @@
-#Commands
+Commands
  git remote add url-github
  git remote -v
  git add .
@@ -7,4 +7,5 @@
  git log
  git reset "copy code from git log"
  git restore .
+ git push origin master
  
